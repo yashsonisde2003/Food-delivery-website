@@ -1,10 +1,8 @@
-Certainly! Here's a README file template for your food delivery website project on GitHub, highlighting the technologies used:
-
 # Food Delivery Website
 
 This Food Delivery Website project is a web application that allows users to browse restaurants, select dishes, place orders, and have food delivered to their doorstep. It is built using HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB.
 
-()
+[image](https://github.com/yashsonisde2003/Food-delivery-website/blob/main/static/images/demo.png)
 
 ## Technologies Used
 
